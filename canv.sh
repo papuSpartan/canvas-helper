@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 JSONFILE="response.json"
 BASEURL="https://courses.letu.edu/api/v1/"
 TOKENFILE="token"
