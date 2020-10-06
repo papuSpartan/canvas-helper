@@ -1,4 +1,8 @@
 # canvApplet
+Easily find what assignments are due and when
+
+----
+
 Canvas applet (though rn it's only a shellscript)
 
 As far as I know this will work with different organizations, but this should work with LETU for sure.
