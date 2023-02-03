@@ -1,4 +1,4 @@
-# canvApplet (though rn it's only a shellscript)
+# canvas helper
 Easily find what assignments are due and when
 
 ----
